@@ -139,7 +139,7 @@ def country_maps(df1):
 #=====================================
 #Dataset
 #=====================================
-df = pd.read_csv("../Ciclo_6/train.csv")
+df = pd.read_csv("../train.csv")
 
 #=====================================
 #Limpanda os dados
